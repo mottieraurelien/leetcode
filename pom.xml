@@ -15,6 +15,7 @@
         <module>two-sum/pom.xml</module><!-- (easy) -->
         <module>palindrome-number/pom.xml</module><!-- (easy) -->
         <module>roman-to-integer/pom.xml</module><!-- (easy) -->
+        <module>longest-common-prefix/pom.xml</module><!-- (easy if using array, but here medium since used trie) -->
     </modules>
 
     <!-- Define properties common to all our exercises. -->
