@@ -12,10 +12,19 @@
 
     <!-- List all problems that have been solved. -->
     <modules>
-        <module>two-sum/pom.xml</module><!-- (easy) -->
-        <module>palindrome-number/pom.xml</module><!-- (easy) -->
-        <module>roman-to-integer/pom.xml</module><!-- (easy) -->
-        <module>longest-common-prefix/pom.xml</module><!-- (easy if using array, but here medium since used trie) -->
+
+        <!-- EASY -->
+        <!-- Using linear data structures, pointers, ... -->
+        <module>two-sum/pom.xml</module>
+        <module>palindrome-number/pom.xml</module>
+        <module>roman-to-integer/pom.xml</module>
+        <module>valid-parentheses/pom.xml</module>
+
+        <!-- MEDIUM -->
+        <!-- Using non-linear data structures, well-known algorithms, ... -->
+        <module>longest-common-prefix/pom.xml</module>
+
+
     </modules>
 
     <!-- Define properties common to all our exercises. -->
