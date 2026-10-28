@@ -14,9 +14,6 @@
     <artifactId>remove-duplicates-from-sorted-array</artifactId>
     <name>remove-duplicates-from-sorted-array</name>
 
-    <url>https://leetcode.com/problems/remove-duplicates-from-sorted-array/</url>
-    <description>https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2183614013</description>
-
     <dependencies>
         <dependency>
             <groupId>org.junit.jupiter</groupId>

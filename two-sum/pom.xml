@@ -14,9 +14,6 @@
     <artifactId>two-sum</artifactId>
     <name>two-sum</name>
 
-    <url>https://leetcode.com/problems/two-sum/</url>
-    <description>https://leetcode.com/submissions/detail/649135736/</description>
-
     <dependencies>
         <dependency>
             <groupId>org.junit.jupiter</groupId>

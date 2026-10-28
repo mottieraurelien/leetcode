@@ -14,9 +14,6 @@
     <artifactId>merge-two-sorted-lists</artifactId>
     <name>merge-two-sorted-lists</name>
 
-    <url>https://leetcode.com/problems/merge-two-sorted-lists/description/</url>
-    <description>https://leetcode.com/problems/merge-two-sorted-lists/submissions/2182961794</description>
-
     <dependencies>
         <dependency>
             <groupId>org.junit.jupiter</groupId>

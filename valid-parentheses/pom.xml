@@ -14,9 +14,6 @@
     <artifactId>valid-parentheses</artifactId>
     <name>valid-parentheses</name>
 
-    <url>https://leetcode.com/problems/valid-parentheses/</url>
-    <description>https://leetcode.com/problems/valid-parentheses/submissions/2182730083</description>
-
     <dependencies>
         <dependency>
             <groupId>org.junit.jupiter</groupId>

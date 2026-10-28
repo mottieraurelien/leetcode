@@ -14,9 +14,6 @@
     <artifactId>best-time-to-buy-and-sell-stock</artifactId>
     <name>best-time-to-buy-and-sell-stock</name>
 
-    <url>https://leetcode.com/problems/best-time-to-buy-and-sell-stock/</url>
-    <description>https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2183778512</description>
-
     <dependencies>
         <dependency>
             <groupId>org.junit.jupiter</groupId>

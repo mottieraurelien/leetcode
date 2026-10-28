@@ -14,9 +14,6 @@
     <artifactId>palindrome-number</artifactId>
     <name>palindrome-number</name>
 
-    <url>https://leetcode.com/problems/palindrome-number/</url>
-    <description>https://leetcode.com/submissions/detail/649186837/</description>
-
     <dependencies>
         <dependency>
             <groupId>org.junit.jupiter</groupId>

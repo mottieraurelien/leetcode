@@ -5,9 +5,6 @@ import java.util.Map;
 
 public class Solution {
 
-    /**
-     * Time complexity : O(n)
-     */
     public int[] twoSum(int[] nums, int target) {
 
         if (nums.length == 2 && nums[0] + nums[1] == target)

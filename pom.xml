@@ -12,21 +12,15 @@
 
     <!-- List all problems that have been solved. -->
     <modules>
-
-        <!-- EASY -->
-        <!-- Using linear data structures, simple algorithms, ... -->
         <module>two-sum/pom.xml</module>
-        <module>palindrome-number/pom.xml</module>
-        <module>roman-to-integer/pom.xml</module>
-        <module>valid-parentheses/pom.xml</module>
-        <module>remove-duplicates-from-sorted-array/pom.xml</module>
         <module>best-time-to-buy-and-sell-stock/pom.xml</module>
-
-        <!-- MEDIUM -->
-        <!-- Using non-linear data structures, well-known algorithms, pointers, limited contracts, ... -->
+        <module>valid-parentheses/pom.xml</module>
         <module>longest-common-prefix/pom.xml</module>
         <module>merge-two-sorted-lists/pom.xml</module>
-
+        <module>palindrome-number/pom.xml</module>
+        <module>roman-to-integer/pom.xml</module>
+        <module>remove-duplicates-from-sorted-array/pom.xml</module>
+        <module>reverse-linked-list/pom.xml</module>
     </modules>
 
     <!-- Define properties common to all our exercises. -->

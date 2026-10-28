@@ -14,9 +14,6 @@
     <artifactId>longest-common-prefix</artifactId>
     <name>longest-common-prefix</name>
 
-    <url>https://leetcode.com/problems/longest-common-prefix/</url>
-    <description>https://leetcode.com/problems/longest-common-prefix/submissions/2182687582</description>
-
     <dependencies>
         <dependency>
             <groupId>org.junit.jupiter</groupId>

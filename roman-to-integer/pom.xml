@@ -14,9 +14,6 @@
     <artifactId>roman-to-integer</artifactId>
     <name>roman-to-integer</name>
 
-    <url>https://leetcode.com/problems/roman-to-integer/</url>
-    <description>https://leetcode.com/submissions/detail/649611408/</description>
-
     <dependencies>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
