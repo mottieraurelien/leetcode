@@ -19,6 +19,7 @@
         <module>palindrome-number/pom.xml</module>
         <module>roman-to-integer/pom.xml</module>
         <module>valid-parentheses/pom.xml</module>
+        <module>remove-duplicates-from-sorted-array/pom.xml</module>
 
         <!-- MEDIUM -->
         <!-- Using non-linear data structures, well-known algorithms, pointers, limited contracts, ... -->
