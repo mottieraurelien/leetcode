@@ -22,6 +22,7 @@
         <module>roman-to-integer/pom.xml</module>
         <module>remove-duplicates-from-sorted-array/pom.xml</module>
         <module>reverse-linked-list/pom.xml</module>
+        <module>binary-search/pom.xml</module>
     </modules>
 
     <!-- Define properties common to all our exercises. -->
