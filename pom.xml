@@ -10,7 +10,8 @@
     <version>1.0</version>
     <packaging>pom</packaging>
 
-    <!-- List all problems that have been solved. -->
+    <!-- Each LeetCode problem has its independent Maven module. -->
+    <!-- All modules inherit from the Maven dependencies manager defined in root. -->
     <modules>
         <module>two-sum/pom.xml</module>
         <module>best-time-to-buy-and-sell-stock/pom.xml</module>

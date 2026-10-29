@@ -30,7 +30,10 @@ class SolutionTest {
     @SuppressWarnings("unused")
     private static Stream<Arguments> scenarios() {
         return Stream.of(
-            of(new ListNode(), new ListNode())
+            of(new ListNode(), new ListNode()),
+            of(new ListNode(1, new ListNode(2)), new ListNode(2, new ListNode(1))),
+            of(new ListNode(1, new ListNode(2, new ListNode(3))), new ListNode(3, new ListNode(2, new ListNode(1)))),
+            of(new ListNode(1, new ListNode(2, new ListNode(3, new ListNode(4, new ListNode(5))))), new ListNode(5, new ListNode(4, new ListNode(3, new ListNode(2, new ListNode(1))))))
         );
     }
 
