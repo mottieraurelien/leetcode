@@ -22,16 +22,13 @@ Below, you can find a submission number, the corresponding URL will be:
 
 ### Easy problems (18)
 
-    <url>https://leetcode.com/problems/reverse-linked-list/description/</url>
-    <description>https://leetcode.com/problems/reverse-linked-list/submissions/???</description>>
-
 | Index | Problem                                                                                                       | Core Pattern - Topic - Hints | Submission |
 |-------|---------------------------------------------------------------------------------------------------------------|------------------------------|------------|
 | 1     | [1. Two Sum](https://leetcode.com/problems/two-sum/)                                                          | HashMap                      | 649135736  |
 | 2     | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)        | Greedy, sliding window       | 2183778512 |
 | 3     | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                     | Stack                        | 2182730083 |
 | 4     | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                | Linked List, pointers        | 2184381746 |
-| 5     |                                                                                                               |                              |            |
+| 5     | [704. Binary Search](https://leetcode.com/problems/binary-search/)                                            | Binary search algorithm      |            |
 | 6     |                                                                                                               |                              |            |
 | 7     | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                             | Strings                      | 2182687582 |
 | 8     |                                                                                                               |                              |            |
