@@ -29,7 +29,7 @@ Below, you can find a submission number, the corresponding URL will be:
 | 3     | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                     | Stack                        | 2182730083 |
 | 4     | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                | Linked List, pointers        | 2184381746 |
 | 5     | [704. Binary Search](https://leetcode.com/problems/binary-search/)                                            | Binary search algorithm      | 2184417050 |
-| 6     |                                                                                                               |                              |            |
+| 6     | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                   | Pointers                     | 2188464972 |
 | 7     | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                             | Strings                      | 2182687582 |
 | 8     |                                                                                                               |                              |            |
 | 9     |                                                                                                               |                              |            |
