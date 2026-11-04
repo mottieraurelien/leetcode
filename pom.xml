@@ -25,6 +25,7 @@
         <module>binary-search/pom.xml</module>
         <module>merge-sorted-array/pom.xml</module>
         <module>climbing-stairs/pom.xml</module>
+        <module>valid-palindrome/pom.xml</module>
     </modules>
 
     <!-- Define properties common to all our exercises. -->
