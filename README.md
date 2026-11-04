@@ -31,7 +31,7 @@ Below, you can find a submission number, the corresponding URL will be:
 | 5     | [704. Binary Search](https://leetcode.com/problems/binary-search/)                                            | Binary search algorithm      | 2184417050 |
 | 6     | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                   | Pointers                     | 2188464972 |
 | 7     | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                             | Strings                      | 2182687582 |
-| 8     |                                                                                                               |                              |            |
+| 8     | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                         | Dynamic programming          | 2189079111 |
 | 9     |                                                                                                               |                              |            |
 | 10    |                                                                                                               |                              |            |
 | 11    |                                                                                                               |                              |            |
